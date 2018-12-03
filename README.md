@@ -2,6 +2,7 @@
 前端开发姿势
 
 ## 通用的
+* 编辑器 [vscode](https://code.visualstudio.com/)
 * ajax请求 [axios](https://www.kancloud.cn/yunye/axios/234845) [jquery](https://www.runoob.com/jquery/jquery-tutorial.html)
 * js基本工具库 [lodash](https://lodash.com/docs/4.17.11)
 * icon、自定义字体 [iconfont](http://www.iconfont.cn/)
@@ -17,9 +18,9 @@
 重视觉少交互，服务端渲染
 
 ## v2.0.1 基于react
-* 脚手架 [iceworks](https://alibaba.github.io/ice/docs/iceworks) [slush](https://www.npmjs.com/package/slush-wxf-react) [tdtool](http://tdesign.tongdun.me/)
+* 脚手架 [iceworks](https://alibaba.github.io/ice/docs/iceworks) [tdtool](http://tdesign.tongdun.me/docs/resource/started#{sluggedId}) [slush](https://www.npmjs.com/package/slush-wxf-react)
 * 后端管理项目UI框架 [antd](https://ant.design/docs/react/introduce-cn)
-* 数据单向绑定，组件化开发模式，mvvm
+* 数据单向绑定，组件化开发模式，mvvm，单页应用
 
 ### 场景
 重交互，前后端分离
