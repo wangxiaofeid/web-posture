@@ -1,0 +1,54 @@
+html { font-size: 12px; color: #404040; font-family: 'Hiragino Sans GB',"ËÎÌå",SimSun; }
+body, ul, li, ol, p, dl, dd, h1, h2, h3, h4, h5, h6, img, iframe, form, div { margin: 0; padding: 0; list-style-type: none; border: 0; }
+input { padding: 0; margin: 0; }
+.clearfix{zoom: 1;}
+.clearfix:after{clear:both;content:" ";display:block;font-size:0;height:0;visibility:hidden;}
+
+.fr{
+  float: right;
+}
+
+/* page layout */
+.header{
+  background: #333;
+  height: 60px;
+}
+.header .header-inner{
+  width: 1200px;
+  margin: 0 auto;
+}
+.header .fr{
+  color: #fff;
+  margin-top: 16px;
+  font-size: 18px;
+}
+.header .logo{
+  height: 60px;
+}
+
+.content{
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.content .left{
+  width: 200px;
+  float: left;
+  min-height: 600px;
+  background: #eee;
+}
+
+.content .right{
+  width: 990px;
+  margin-left: 10px;
+  float: left;
+  min-height: 600px;
+  background: #efefef;
+}
+
+.footer{
+  background: #333;
+  text-align: center;
+  height: 200px;
+  color: #fff;
+}
